@@ -6,7 +6,6 @@ import com.muradnajafli.dictionaryapp.domain.usecase.GetWordsUseCase
 import com.muradnajafli.dictionaryapp.util.Result
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Job
-import kotlinx.coroutines.cancel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
